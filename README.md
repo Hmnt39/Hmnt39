@@ -15,7 +15,7 @@
 
 ### Stats:
 <img align="left" width="42%" height="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmnt39&theme=dark&show_icons=true&locale=en&layout=compact" alt="hmnt39">
-<img width="50%" height="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=hmnt39&theme=dark" alt="hmnt39" >
+<img width="50%" height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=hmnt39&date_format=M%20j%5B%2C%20Y%5D&theme=dark" alt="hmnt39" >
 
 
 ### Languages and Tools:

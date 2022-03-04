@@ -13,6 +13,11 @@
 [<img align="left" alt="hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />][hackerearth]
 <br />
 
+### Stats:
+<img align="left" width="42%" height="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmnt39&theme=dark&show_icons=true&locale=en&layout=compact" alt="hmnt39">
+<img width="50%" height="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=hmnt39&theme=dark" alt="hmnt39" >
+
+
 ### Languages and Tools:
 <img align="left" width="26px" height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg">
 <img align="left" width="26px" height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg">
